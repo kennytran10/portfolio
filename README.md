@@ -9,7 +9,7 @@
 - Delivered prompt IT support across email, phone, and in-person channels, resolving hardware, software, and network issues
 - Streamlined onboarding for new hires by configuring laptops, setting up essential program access, and guiding initial IT setup
 
-**Cyber Security Intern @ BlackSwan Cyber Security (_May 2024 - August 2023)**
+**Cyber Security Intern @ BlackSwan Cyber Security (_May 2024 - August 2023_)**
 -	Enhanced cybersecurity processes and productivity through strategic support and task prioritization
 -	Created SOC monthly threat reports, distributing insights in newsletter format
 -	Authored cybersecurity blog posts to strengthen public awareness and expertise
