@@ -1,5 +1,14 @@
 # CompTIA A+ Certified | Cybersecurity & IT Audit Enthusiast
 
+### About Me
+Hello! I’m Kenny Tran, a Computer Information Systems and Technology student at the University of Texas at Dallas, graduating in 2026. With a focus on Cybersecurity Management, I’m committed to building a strong foundation for a career in IT and cybersecurity. Currently, I hold a CompTIA A+ certification and am advancing my expertise by working toward Network+, Security+, AZ900, and Splunk Core certifications.
+
+In my recent IT Help Desk internship at The Beck Group, I gained practical experience managing help desk tickets, resolving hardware, software, and network issues, and enhancing operational efficiency. I took on a key role in onboarding by configuring laptops and software for new hires and led efforts to replace outdated systems, upgrading over 80 computers and securely recycling 260+ laptops. My problem-solving skills were tested and strengthened, especially when I quickly resolved a critical network issue caused by a broadcast storm, ensuring uninterrupted service for my team.
+
+Before joining The Beck Group, I served as an Apple Support College Program At Home Advisor, specializing in troubleshooting for iOS and macOS. Here, I achieved a 100% customer satisfaction score, reflecting my dedication to quality service and technical problem-solving.
+
+Looking forward, my goal is to specialize in cybersecurity or IT audit, contributing to the protection of sensitive data in dynamic, high-stakes environments. I am passionate about technology, constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, dedicated to making a lasting impact in the tech field.
+
 ### Education
 - B.S., Computer Information Systems and Technology | The University of Texas at Dallas (_May 2026_) 
 
