@@ -1,7 +1,7 @@
 # CompTIA A+ Certified | Cybersecurity & IT Audit Enthusiast
 
 ### Education
-Computer Information Systems and Technology, BA
+Computer Information Systems and Technology, B.S.
 
 ### Work Experience
 IT Help Desk Intern @ The Beck Group
