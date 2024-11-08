@@ -7,7 +7,7 @@ In my recent IT Help Desk internship at The Beck Group, I gained practical exper
 
 Before joining The Beck Group, I served as an Apple Support College Program At Home Advisor, specializing in troubleshooting for iOS and macOS. Here, I achieved a 100% customer satisfaction score, reflecting my dedication to quality service and technical problem-solving.
 
-Looking forward, my goal is to specialize in cybersecurity or IT audit, contributing to the protection of sensitive data in dynamic, high-stakes environments. I am passionate about technology, constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, dedicated to making a lasting impact in the tech field.
+Looking forward, my goal is to specialize in cybersecurity or IT audit, contributing to protecting sensitive data in dynamic, high-stakes environments. I am passionate about technology and constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, and I am dedicated to making a lasting impact in the tech field.
 
 ### Education
 - B.S., Computer Information Systems and Technology | The University of Texas at Dallas (_May 2026_) 
@@ -36,4 +36,4 @@ During my internship with The Beck Group, using **Microsoft Sharepoint, Excel, P
 
 ### Recycling Laptop Project
 
-Additionally, during my internship with The Beck Group, I managed recycling of 200 outdated computers, ensuring data security at each stage. I used Dell's BIOS wipe feature for standard devices, deployed **DBAN** for older models, and physically destroyed hard drives in legacy systems. This process required close collaboration with our IT Coordinator and precise scheduling with a recycling company to arrange timely pickups, ensuring efficient disposal while safeguarding company data.
+Additionally, during my internship with The Beck Group, I managed the recycling of 200 outdated computers, ensuring data security at each stage. I used Dell's BIOS wipe feature for standard devices, deployed **DBAN** for older models, and physically destroyed hard drives in legacy systems. This process required close collaboration with our IT Coordinator and precise scheduling with a recycling company to arrange timely pickups, ensuring efficient disposal while safeguarding company data.
