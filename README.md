@@ -28,3 +28,7 @@ Looking forward, my goal is to specialize in cybersecurity or IT audit, contribu
 - Decreased average call handle time to 10 minutes, achieving a monthly 100% customer satisfaction score
 - Analyzed root causes of technical issues for iOS/macOS users, utilizing Apple’s internal databases
 
+## Projects
+### Laptop Replacement Project
+[Publication]/(https://www.linkedin.com/pulse/my-experience-intern-beck-group-adventure-assistance-kenny-tran-j4uhc/?trackingId=q5zd5qK%2BT6ePwbZtC2PeeA%3D%3D)
+During my internship with The Beck Group, using **Microsoft Sharepoint, Excel, PDQ Deploy, PDQ Inventory, and Active Directory** I replaced over 80 computers, ensuring each user had a fully functional and correctly configured device. This project enhanced my skills in laptop imaging and configuration and underscored the importance of careful planning and execution in large-scale IT operations.
