@@ -28,6 +28,11 @@ Looking forward, my goal is to specialize in cybersecurity or IT audit, contribu
 - Decreased average call handle time to 10 minutes, achieving a monthly 100% customer satisfaction score
 - Analyzed root causes of technical issues for iOS/macOS users, utilizing Apple’s internal databases
 
+### Certifications
+- CompTIA A+ (_Sept 2024_)
+- CompTIA Network+ (_Expected May 2025_)
+- CompTIA Security+ (_Expected May 2025_)
+  
 ## Projects
 ### Laptop Replacement Project
 [Publication](https://www.linkedin.com/pulse/my-experience-intern-beck-group-adventure-assistance-kenny-tran-j4uhc/?trackingId=q5zd5qK%2BT6ePwbZtC2PeeA%3D%3D)
@@ -37,3 +42,7 @@ During my internship with The Beck Group, using **Microsoft Sharepoint, Excel, P
 ### Recycling Laptop Project
 
 Additionally, during my internship with The Beck Group, I managed the recycling of 200 outdated computers, ensuring data security at each stage. I used Dell's BIOS wipe feature for standard devices, deployed **DBAN** for older models, and physically destroyed hard drives in legacy systems. This process required close collaboration with our IT Coordinator and precise scheduling with a recycling company to arrange timely pickups, ensuring efficient disposal while safeguarding company data.
+
+### Data Visualization Project
+I gathered Apple Inc.'s stock data (high, low, and closing prices) from Yahoo Finance over the past 30 days. After collecting the data, I imported it into Excel, creating a high-low-close candlestick chart to illustrate the stock’s daily fluctuations and closing values.
+The visualization effectively shows trends over time, such as periods of stability, volatility, and gradual shifts in stock prices. My main takeaway was observing the periods when Apple's stock experienced a consistent decrease, which could indicate market responses to specific events or broader economic conditions. This data collection and visualization exercise helped me better understand how to interpret stock market trends and utilize Excel for financial data analysis.
