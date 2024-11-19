@@ -1,13 +1,13 @@
 # CompTIA A+ Certified | Cybersecurity & IT Audit Enthusiast
-
+[Video Introduction](https://youtu.be/kB8LuGkBrv8)
 ### About Me
 Hello! I’m Kenny Tran, a Computer Information Systems and Technology student at The University of Texas at Dallas, graduating in 2026. With a focus on Cybersecurity Management, I’m committed to building a strong foundation for a career in IT and cybersecurity. I hold a CompTIA A+ certification and am advancing my expertise by working toward Network+, Security+, AZ900, and Splunk Core certifications.
 
-In my recent IT Help Desk internship at The Beck Group, I managed help desk tickets, resolved hardware, software, and network issues, and enhanced operational efficiency. I was entrusted with conducting the onboarding process for new hires by configuring their laptops and software; and equally as important, I led efforts to replace outdated systems, upgraded over 80 computers, and securely recycled over 260 laptops. One of my key takeaways from this experience was my handling of a broadcast storm at the AT&T job site: I learned the importance of adaptability and translating my formal education into practical solutions. 
+In my recent IT Help Desk internship at The Beck Group, I managed help desk tickets, resolved hardware, software, and network issues, and enhanced operational efficiency. I was entrusted with conducting the onboarding process for new hires by configuring their laptops and software, and equally as important, I led efforts to replace outdated systems, upgraded over 80 computers, and securely recycled over 260 laptops. One of my key takeaways from this experience was handling a broadcast storm at the AT&T job site: I learned the importance of adaptability and translating my formal education into practical solutions. 
 
 Before joining The Beck Group, I served as an Apple Support College Program At Home Advisor, specializing in troubleshooting for iOS and macOS. I achieved a 100% customer satisfaction score, reflecting my dedication to quality service and technical problem-solving.
 
-Looking forward, I aim to specialize in cybersecurity or IT audit, contributing to protecting sensitive data in dynamic, high-stakes environments. I am passionate about technology and constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, and I am dedicated to making a lasting impact in the tech field.
+I aim to specialize in cybersecurity or IT audit, contributing to protecting sensitive data in dynamic, high-stakes environments. I am passionate about technology and constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, and I am dedicated to making a lasting impact in the tech field.
 
 ### Education
 - B.S., Computer Information Systems and Technology | The University of Texas at Dallas (_May 2026_) 
