@@ -52,3 +52,7 @@ The visualization effectively shows trends over time, such as periods of stabili
 At The Beck Group, we encountered a challenging situation where one of our network-connected TVs caused a broadcast storm, affecting internet connectivity for everyone on the AT&T job site. Initially, it was unclear what was causing the network congestion, so my manager and I systematically isolated each device connected to the network switch. After identifying the TV as the source, we unplugged it, immediately restoring connectivity.
 To prevent this issue from recurring, I researched potential causes of broadcast storms and preventative measures to ensure that similar devices wouldn’t cause disruptions. Some preventative measures include creating VLANs to isolate network traffic, enabling storm control on switches to limit excessive broadcast traffic, testing devices for compatibility before deployment, scheduling regular firmware updates, and establishing real-time network monitoring to detect anomalies early, all of which ensure a more reliable and secure network environment.
 ![Broadcast Storm](/assets/broadcastStorm.jpg)
+
+### Contact Me
+[LinkedIn](https://www.linkedin.com/in/kenny-tran10/)
+trankenny007@gmail.com
