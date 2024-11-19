@@ -1,5 +1,5 @@
 # CompTIA A+ Certified | Cybersecurity & IT Audit Enthusiast
-[Video Introduction](https://youtu.be/kB8LuGkBrv8)
+Please watch my [video introduction](https://youtu.be/kB8LuGkBrv8) to get a glimpse of who I am. I would love it if you would check out the rest of my site.
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/kenny-tran10/)
@@ -48,6 +48,7 @@ During my internship with The Beck Group, using **Microsoft Sharepoint, Excel, P
 ### Recycling Laptop Project
 
 Additionally, during my internship with The Beck Group, I managed the recycling of 200 outdated computers, ensuring data security at each stage. I used Dell's BIOS wipe feature for standard devices, deployed **DBAN** for older models, and physically destroyed hard drives in legacy systems. This process required close collaboration with our IT Coordinator and precise scheduling with a recycling company to arrange timely pickups, ensuring efficient disposal while safeguarding company data.
+![DBAN (Darik's Boot and Nuke)](/assets/Dban11.png)
 
 ### Data Visualization Project
 I gathered Apple Inc.'s stock data (high, low, and closing prices) from **Yahoo Finance** over the past 30 days. After collecting the data, I imported it into **Excel**, creating a **high-low-close candlestick chart** to illustrate the stock’s daily fluctuations and closing values.
