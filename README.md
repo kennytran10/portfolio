@@ -5,6 +5,7 @@
 [LinkedIn](https://www.linkedin.com/in/kenny-tran10/)
 
 trankenny007@gmail.com
+
 ### About Me
 Hello! I’m Kenny Tran, a Computer Information Systems and Technology student at The University of Texas at Dallas, graduating in 2026. With a focus on Cybersecurity Management, I’m committed to building a strong foundation for a career in IT and cybersecurity. I hold a CompTIA A+ certification and am advancing my expertise by working toward Network+, Security+, AZ900, and Splunk Core certifications.
 
