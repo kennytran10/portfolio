@@ -15,6 +15,8 @@ Before joining The Beck Group, I served as an Apple Support College Program At H
 
 I aim to specialize in cybersecurity or IT audit, contributing to protecting sensitive data in dynamic, high-stakes environments. I am passionate about technology and constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, and I am dedicated to making a lasting impact in the tech field.
 
+## Resume
+
 ### Education
 - B.S., Computer Information Systems and Technology | The University of Texas at Dallas (_May 2026_) 
 
