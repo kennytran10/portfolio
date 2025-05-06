@@ -1,5 +1,5 @@
 # CompTIA A+ Certified | Cybersecurity & IT Audit Enthusiast
-Please watch my [video introduction](https://youtu.be/kB8LuGkBrv8) to get a glimpse of who I am. I would love it if you would check out the rest of my site.
+Please watch my [video introduction](https://youtu.be/Id1x8o9ezz0) to get a glimpse of who I am. I would love it if you would check out the rest of my site.
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/kenny-tran10/)
