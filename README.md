@@ -66,5 +66,5 @@ To prevent this issue from recurring, I researched potential causes of broadcast
 
 
 ## Academic Project Sample
-![View PDF](/assets/BCOMPresentation.pdf)
+[View PDF](https://github.com/kennytran10/portfolio/blob/main/assets/BCOMPresentation.pdf)
 
