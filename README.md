@@ -66,4 +66,5 @@ To prevent this issue from recurring, I researched potential causes of broadcast
 
 
 ## Academic Project Sample
-[View PDF](/assets/BCOM 4300 Case Study #3.pdf)
+![View PDF](/assets/BCOM 4300 Case Study #3.pdf)
+
