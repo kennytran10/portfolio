@@ -68,3 +68,8 @@ To prevent this issue from recurring, I researched potential causes of broadcast
 ## Academic Project Sample
 [View PDF](https://github.com/kennytran10/portfolio/blob/main/assets/BCOMPresentation.pdf)
 
+##Testimonials 
+-	“During his internship with us at The Beck Group, Kenny demonstrated excellent troubleshooting skills and a proactive attitude. He handled help desk tickets, replaced legacy systems, and even took initiative in organizing our e-waste process. His work ethic, reliability, and professionalism stood out. Kenny would be a valuable asset to any IT or cybersecurity team.”
+— Preston Riddick, IT Support Manager, The Beck Group
+-	“I had the chance to mentor Kenny during his time at BlackSwan Cybersecurity. He asked the right questions, sought feedback often, and was quick to apply what he learned in real-time scenarios. His curiosity and drive to understand not just the ‘how’ but the ‘why’ behind security protocols make him stand out in a competitive field.”
+— Daniel Kim, Cybersecurity Consultant, BlackSwan Cybersecurity
