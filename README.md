@@ -22,7 +22,7 @@ Whether it’s testing controls, assessing risk, or exploring the governance cha
 
 ### Work Experience
 
-**Corporate Audit IT Intern  @ Lennox International  (June 2025 - August 2025_)**
+**Corporate Audit IT Intern  @ Lennox International  (_June 2025 - August 2025_)**
 -	Conducted IT compliance audits to ensure adherence to SOX regulatory requirements
 -	Performed control testing for ITGC and ITAC, using compliance frameworks and auditing tools
 - Documented results, identified potential risks, and prepared audit reports with actionable insights
