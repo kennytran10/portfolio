@@ -23,10 +23,10 @@ Whether it’s testing controls, assessing risk, or exploring the governance cha
 ### Work Experience
 
 **Corporate Audit IT Intern  @ Lennox International  (June 2025 - August 2025_)**
-•	Conducted IT compliance audits to ensure adherence to SOX regulatory requirements
-•	Performed control testing for ITGC and ITAC, using compliance frameworks and auditing tools
-•	Documented results, identified potential risks, and prepared audit reports with actionable insights
-•	Collaborated with cross-functional teams to enhance security policies and process improvements
+-	Conducted IT compliance audits to ensure adherence to SOX regulatory requirements
+-	Performed control testing for ITGC and ITAC, using compliance frameworks and auditing tools
+- Documented results, identified potential risks, and prepared audit reports with actionable insights
+-	Collaborated with cross-functional teams to enhance security policies and process improvements
 
   
 **IT Help Desk Intern @ The Beck Group (_May 2024 - August 2024_)**
@@ -46,8 +46,8 @@ Whether it’s testing controls, assessing risk, or exploring the governance cha
 
 ### Certifications
 - CompTIA A+ (_Sept 2024_)
-- CompTIA Network+ (_Expected May 2025_)
-- CompTIA Security+ (_Expected May 2025_)
+- Certified Information Systems Auditor (CISA) (_In Progress_)
+- Certified Internal Auditor (_In Progress_)
   
 ## Projects
 ### Laptop Replacement Project
