@@ -113,6 +113,9 @@ Additionally, during my internship with The Beck Group, I managed the recycling 
 ### Data Visualization Project (Spring 2024)
 I gathered Apple Inc.'s stock data (high, low, and closing prices) from **Yahoo Finance** over the past 30 days. After collecting the data, I imported it into **Excel**, creating a **high-low-close candlestick chart** to illustrate the stock’s daily fluctuations and closing values.
 The visualization effectively shows trends over time, such as periods of stability, volatility, and gradual shifts in stock prices. My main takeaway was observing the periods when Apple's stock experienced a consistent decrease, which could indicate market responses to specific events or broader economic conditions. This data collection and visualization exercise helped me better understand how to interpret stock market trends and utilize Excel for financial data analysis.
+**Tools Used:**
+- Yahoo Finance – Collected historical stock data.
+- Microsoft Excel – Created and formatted candlestick charts.
 ![Apple (High Low Close)](/assets/AppleGraph.png)
 
 
