@@ -57,12 +57,12 @@ During my internship at Lennox International, I contributed to SOX compliance ef
 - Performed walkthroughs with control owners to understand control logic.
 - Validated control effectiveness through sample testing and screenshot evidence.
 
-   **Tools Used:**
+**Tools Used:**
 - SAP – Accessed and reviewed relevant system data and configurations.
 - Excel – Organized findings, tracked risks, and supported data analysis.
 - AuditBoard – Drafted planning documentation and maintained audit records.
 
-  This project strengthened my understanding of regulatory compliance, control design, and documentation best practices while sharpening my attention to detail in audit processes.
+This project strengthened my understanding of regulatory compliance, control design, and documentation best practices while sharpening my attention to detail in audit processes.
 
 ### AI Governance Assessment (Summer 2025)
 At Lennox International, I helped lay the groundwork for an AI governance audit—focusing on risk identification, scope definition, and framework alignment.
@@ -89,15 +89,16 @@ During my internship with The Beck Group, using **Microsoft Sharepoint, Excel, P
 ### Broadcast Storm (Summer 2024)
 At The Beck Group, we encountered a challenging situation where one of our network-connected TVs caused a broadcast storm, affecting internet connectivity for everyone on the AT&T job site. Initially, it was unclear what was causing the network congestion, so my manager and I systematically isolated each device connected to the network switch. After identifying the TV as the source, we unplugged it, immediately restoring connectivity.
 To prevent this issue from recurring, I researched potential causes of broadcast storms and preventative measures to ensure that similar devices wouldn’t cause disruptions. Some preventative measures include creating VLANs to isolate network traffic, enabling storm control on switches to limit excessive broadcast traffic, testing devices for compatibility before deployment, scheduling regular firmware updates, and establishing real-time network monitoring to detect anomalies early, all of which ensure a more reliable and secure network environment.
-![Broadcast Storm](/assets/broadcastStorm.jpg)
 **Tools Used:**
 - Network Switch Interface – Monitored and isolated devices.
 - LAN Cables & Diagnostic Tools – Tested connectivity and configurations.
 - Technical Documentation – Recorded troubleshooting steps and prevention plans.
+![Broadcast Storm](/assets/broadcastStorm.jpg)
   
 ### Recycling Laptop Project (Summer 2024)
 
 Additionally, during my internship with The Beck Group, I managed the recycling of 200 outdated computers, ensuring data security at each stage. I used Dell's BIOS wipe feature for standard devices, deployed **DBAN** for older models, and physically destroyed hard drives in legacy systems. This process required close collaboration with our IT Coordinator and precise scheduling with a recycling company to arrange timely pickups, ensuring efficient disposal while safeguarding company data.
+
 **Tools Used:**
 - Dell BIOS Wipe Utility – Performed secure data erasure.
 - DBAN – Wiped older hard drives.
