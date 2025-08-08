@@ -51,7 +51,6 @@ Whether it’s testing controls, assessing risk, or exploring the governance cha
   
 ## Projects
 ### Laptop Replacement Project
-[Publication](https://www.linkedin.com/pulse/my-experience-intern-beck-group-adventure-assistance-kenny-tran-j4uhc/?trackingId=q5zd5qK%2BT6ePwbZtC2PeeA%3D%3D)
 
 During my internship with The Beck Group, using **Microsoft Sharepoint, Excel, PDQ Deploy, PDQ Inventory, Active Directory, and Windows RDP**, I replaced over 80 outdated computers, ensuring each user had a fully functional and correctly configured device. This project enhanced my laptop imaging and configuration skills and underscored the importance of careful planning and execution in large-scale IT operations.
 ![Imaging (Laptop imaging)](/assets/image1.jpg)
