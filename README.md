@@ -49,7 +49,7 @@ Whether it’s testing controls, assessing risk, or exploring the governance cha
 - Certified Information Systems Auditor (CISA) (_In Progress_)
 - Certified Internal Auditor (_In Progress_)
   
-## Projects
+## Internship Projects
 
 ### SOX Compliance: IT Application Controls (ITACs) Testing (Summer 2025)
 During my internship at Lennox International, I contributed to SOX compliance efforts by testing IT Application Controls (ITACs) across key systems. Using standardized audit workpapers, I:
@@ -81,14 +81,19 @@ To prevent this issue from recurring, I researched potential causes of broadcast
 Additionally, during my internship with The Beck Group, I managed the recycling of 200 outdated computers, ensuring data security at each stage. I used Dell's BIOS wipe feature for standard devices, deployed **DBAN** for older models, and physically destroyed hard drives in legacy systems. This process required close collaboration with our IT Coordinator and precise scheduling with a recycling company to arrange timely pickups, ensuring efficient disposal while safeguarding company data.
 ![DBAN (Darik's Boot and Nuke)](/assets/Dban11.png)
 
+
+
+
+## Academic Project Samples
+
+### Business Communication Presentation (Spring 2025)
+[View PDF](https://github.com/kennytran10/portfolio/blob/main/assets/BCOMPresentation.pdf)
+
 ### Data Visualization Project (Spring 2024)
 I gathered Apple Inc.'s stock data (high, low, and closing prices) from **Yahoo Finance** over the past 30 days. After collecting the data, I imported it into **Excel**, creating a **high-low-close candlestick chart** to illustrate the stock’s daily fluctuations and closing values.
 The visualization effectively shows trends over time, such as periods of stability, volatility, and gradual shifts in stock prices. My main takeaway was observing the periods when Apple's stock experienced a consistent decrease, which could indicate market responses to specific events or broader economic conditions. This data collection and visualization exercise helped me better understand how to interpret stock market trends and utilize Excel for financial data analysis.
 ![Apple (High Low Close)](/assets/AppleGraph.png)
 
-
-## Academic Project Sample
-[View PDF](https://github.com/kennytran10/portfolio/blob/main/assets/BCOMPresentation.pdf)
 
 ## Testimonials
 -	“During his internship with us at The Beck Group, Kenny demonstrated excellent troubleshooting skills and a proactive attitude. He handled help desk tickets, replaced legacy systems, and even took initiative in organizing our e-waste process. His work ethic, reliability, and professionalism stood out. Kenny would be a valuable asset to any IT or cybersecurity team.”
