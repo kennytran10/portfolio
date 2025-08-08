@@ -1,5 +1,5 @@
-# CompTIA A+ Certified | Cybersecurity & IT Audit Enthusiast
-Please watch my [video introduction](https://youtu.be/Id1x8o9ezz0) to get a glimpse of who I am. I would love it if you would check out the rest of my site.
+# IT Audit & Compliance | Cybersecurity | SOX Compliance | AI Governance | CompTIA A+ Certified | Computer Information Systems Student | Aspiring CISA & CIA
+
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/kenny-tran10/)
@@ -7,20 +7,28 @@ Please watch my [video introduction](https://youtu.be/Id1x8o9ezz0) to get a glim
 trankenny007@gmail.com
 
 ### About Me & Goals
-Hello! I’m Kenny Tran, a Computer Information Systems and Technology student at The University of Texas at Dallas, graduating in 2026. With a focus on Cybersecurity Management, I’m committed to building a strong foundation for a career in IT and cybersecurity. I hold a CompTIA A+ certification and am advancing my expertise by working toward Network+, Security+, AZ900, and Splunk Core certifications.
+When I first stepped into the world of technology, I was fascinated by how much trust organizations place in their systems—and how much is at stake if those systems fail. That curiosity quickly grew into a passion for IT audit, risk management, and cybersecurity.
 
-In my recent IT Help Desk internship at The Beck Group, I managed help desk tickets, resolved hardware, software, and network issues, and enhanced operational efficiency. I was entrusted with conducting the onboarding process for new hires by configuring their laptops and software, and equally as important, I led efforts to replace outdated systems, upgraded over 80 computers, and securely recycled over 260 laptops. One of my key takeaways from this experience was handling a broadcast storm at the AT&T job site: I learned the importance of adaptability and translating my formal education into practical solutions. 
+I’m currently a Computer Information Systems and Technology student at The University of Texas at Dallas (graduating in 2025) and hold a CompTIA A+ certification. Recently, I had the opportunity to work as an IT Audit Intern at Lennox International, where I gained hands-on experience with SOX compliance testing, AI governance assessments, and control evaluations. These experiences sharpened my skills in IT governance, compliance frameworks, and risk assessment—and confirmed my goal to specialize in IT audit.
 
-Before joining The Beck Group, I served as an Apple Support College Program At Home Advisor, specializing in troubleshooting for iOS and macOS. I achieved a 100% customer satisfaction score, reflecting my dedication to quality service and technical problem-solving.
+I’m now working toward my Certified Information Systems Auditor (CISA) and Certified Internal Auditor (CIA) credentials, with the mission of helping organizations strengthen technology controls, ensure regulatory compliance, and protect data integrity.
 
-I aim to specialize in cybersecurity or IT audit, contributing to protecting sensitive data in dynamic, high-stakes environments. I am passionate about technology and constantly expanding my knowledge in coding and cybersecurity practices. In my spare time, I enjoy writing articles on cybersecurity trends and exploring new tech innovations, and I am dedicated to making a lasting impact in the tech field.
+Whether it’s testing controls, assessing risk, or exploring the governance challenges of emerging technologies like AI, I’m committed to turning complex problems into actionable solutions.
 
 ## Resume
 
 ### Education
-- B.S., Computer Information Systems and Technology | The University of Texas at Dallas (_May 2026_) 
+- B.S., Computer Information Systems and Technology | The University of Texas at Dallas (_December 2025_) 
 
 ### Work Experience
+
+**Corporate Audit IT Intern  @ Lennox International  (June 2025 - August 2025_)**
+•	Conducted IT compliance audits to ensure adherence to SOX regulatory requirements
+•	Performed control testing for ITGC and ITAC, using compliance frameworks and auditing tools
+•	Documented results, identified potential risks, and prepared audit reports with actionable insights
+•	Collaborated with cross-functional teams to enhance security policies and process improvements
+
+  
 **IT Help Desk Intern @ The Beck Group (_May 2024 - August 2024_)**
 - Led the replacement of 80+ computers and managed recycling for 200+ laptops, ensuring secure data disposal and efficient asset management
 - Delivered prompt IT support across email, phone, and in-person channels, resolving hardware, software, and network issues
