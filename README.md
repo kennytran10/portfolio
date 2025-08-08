@@ -47,7 +47,7 @@ Whether it’s testing controls, assessing risk, or exploring the governance cha
 ### Certifications
 - CompTIA A+ (_Sept 2024_)
 - Certified Information Systems Auditor (CISA) (_In Progress_)
-- Certified Internal Auditor (_In Progress_)
+- Certified Internal Auditor (CIA) (_In Progress_)
   
 ## Internship Projects
 
