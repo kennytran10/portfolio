@@ -7,7 +7,7 @@
 trankenny007@gmail.com
 
 ### About Me & Goals
-When I first stepped into the world of technology, I was fascinated by how much trust organizations place in their systems—and how much is at stake if those systems fail. That curiosity quickly grew into a passion for IT audit, risk management, and cybersecurity.
+When I first stepped into the world of technology, I was fascinated by how much trust organizations place in their systems and how much is at stake if those systems fail. That curiosity quickly grew into a passion for IT audit, risk management, and cybersecurity.
 
 I’m currently a Computer Information Systems and Technology student at The University of Texas at Dallas (graduating in 2025) and hold a CompTIA A+ certification. Recently, I had the opportunity to work as an IT Audit Intern at Lennox International, where I gained hands-on experience with SOX compliance testing, AI governance assessments, and control evaluations. These experiences sharpened my skills in IT governance, compliance frameworks, and risk assessment—and confirmed my goal to specialize in IT audit.
 
