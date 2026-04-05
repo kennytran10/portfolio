@@ -143,8 +143,4 @@ Created a high-low-close candlestick chart visualizing Apple Inc.'s stock data f
 - Senior Capstone Marketing Team, White Rock Granola
 - Volunteer, Bonton Farms
 
----
 
-## Testimonials
-
-- "During his internship with us at The Beck Group, Kenny demonstrated excellent troubleshooting skills and a proactive attitude..." - Preston Riddick, IT Support Manager, The Beck Group
